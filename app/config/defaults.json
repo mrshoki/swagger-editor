@@ -10,7 +10,7 @@
       "id": "UA-51231036-1"
     }
   },
-  "disableCodeGen": false,
+  "disableCodeGen": true,
   "examplesFolder": "/spec-files/",
   "exampleFiles": [
     "default.yaml",
@@ -27,10 +27,10 @@
   "backendEndpoint": "/editor/spec",
   "backendHealthCheckTimeout": 5000,
   "useYamlBackend": false,
-  "disableFileMenu": false,
+  "disableFileMenu": true,
   "headerBranding": false,
   "enableTryIt": true,
   "brandingCssClass": "",
   "schemaUrl": "/schema/swagger.json",
-  "importProxyUrl": "https://cors-it.herokuapp.com/?url="
+  "importProxyUrl": ""
 }
